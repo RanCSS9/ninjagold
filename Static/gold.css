@@ -1,0 +1,17 @@
+form{
+	border:2px solid #0085E0;
+	display: inline-block;
+}
+ul{
+	list-style: none;
+	border:2px solid #6638F0;
+}
+.red{
+	color:red;
+}
+.green{
+	color: green;
+}
+.endOn{
+	display: none;
+}
