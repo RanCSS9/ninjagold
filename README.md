@@ -1,2 +1,2 @@
 # ninjagold
-![alt text](http://url/to/NinjaGoldScreenShot.png)
+![alt text](https://github.com/RanCSS9/ninjagold/blob/master/NinjaGoldScreenShot.png)
